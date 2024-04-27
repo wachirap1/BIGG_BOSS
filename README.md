@@ -1,4 +1,4 @@
- <h1 align="center"> BIGG BOSS MD</h1> 
+ <h1 align="center"> 😖b1GG b0$$🤑🤑 MD</h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
+    <img alt="😖b1GG b0$$🤑🤑-Md" height="400" src="/lib/assets/pk.jpg">
   </a>
 </p>
     
